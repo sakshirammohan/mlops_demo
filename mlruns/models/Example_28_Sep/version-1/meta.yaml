@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727520717852
+current_stage: None
+description: ''
+last_updated_timestamp: 1727520717852
+name: Example_28_Sep
+run_id: fb9a96c416fc4da28abf479a037673d0
+run_link: ''
+source: file:///C:/Users/Sakshi%20Rammohan/OneDrive/Desktop/Sem-6%20Study%20Material/MLFLow/mlruns/0/fb9a96c416fc4da28abf479a037673d0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Sakshi%20Rammohan/OneDrive/Desktop/Sem-6%20Study%20Material/MLFLow/mlruns/0/fb9a96c416fc4da28abf479a037673d0/artifacts/model
+user_id: null
+version: 1
